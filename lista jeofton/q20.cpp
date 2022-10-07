@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+/* 20) Crie um programa capaz de ler dois nomes de pessoas e imprimi-los em ordem alfabética. */
+
 int main(){
 	
 	char nome1[30], nome2[30];
